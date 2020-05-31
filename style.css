@@ -9,3 +9,11 @@ body {
   padding-bottom: 10px;
   width: 200px;
 }
+a {
+  text-decoration: none;
+}
+.icons img {
+  height: 35px;
+  padding: 3px;
+  width: 35px;
+}
