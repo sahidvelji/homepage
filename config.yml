@@ -86,6 +86,7 @@ params:
     - name: twitter
       url: "https://twitter.com/sahidvelji"
     - name: rss
+      url: "https://sahidvelji.com/index.xml"
 
   # analytics:
   #   google:
