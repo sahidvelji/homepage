@@ -61,10 +61,10 @@ params:
     enabled: true # needs to be explicitly set
     title: Sahid Velji
     # subtitle: "This is subtitle"
-    # imageUrl: "<img location>"
-    # imageWidth: 120
-    # imageHeight: 120
-    # imageTitle: my image
+    imageUrl: "sahid-velji.png"
+    imageWidth: 250
+    imageHeight: 250
+    imageTitle: Sahid Velji
     # buttons:
     #   - name: Posts
     #     url: posts
